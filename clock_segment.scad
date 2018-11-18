@@ -16,7 +16,7 @@ tot_h  = wall_h + bot_h;
 
 gap_ww = 11.0;
 gap_wl = 6.0;
-gap_tl = 1.5;
+gap_tl = 3.5;
 gap_tt = 3.5;
 
 union() {
